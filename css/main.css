@@ -1,0 +1,60 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+.hero-unit {
+	color: #5e5c5f;
+	padding: 1px;
+	font-family: 'Chalet-NewYorkNineteenEighty','All Round Gothic Bold', "Helvetica Neue", Helvetica, Arial,sans-serif;
+	/*
+	http://www.fontspring.com/fonts/flat-it/all-round-gothic
+	http://www.linotype.com/de/1183785/AllRoundGothicStdBoldOblique-product.html
+	*/
+}
+
+@media (min-width: 768px) {
+	.hero-unit {
+	padding:10px 60px 60px 60px;
+	background: #eceded url(../img/wandputz.jpg) repeat; 
+	overflow: hidden; 
+	}
+	.hero-unit p {
+	margin-top: 20px;
+	line-height: 30px;
+	}
+	#news {
+		margin:0px 0px 60px -30px ;
+		padding-right: -30px;
+	}
+}
+
+.hero-banner {
+	margin: 0px -60px 0px -60px ;
+	height: 170px;
+	background: url(../img/blumenwiese.jpg) repeat-x; 
+}
+.hero-banner img {
+	max-height: 170px;
+    max-width: 800px;
+}
+
+.hero-unit h1 {
+	color: #4dab49;
+}
+
+footer {
+  	font-weight: normal;
+}
+
+footer a:link {
+	text-decoration: none;
+	color: #333333;
+}
+
+footer a:visited {
+	text-decoration: none;
+	color: #333333;
+}
+
