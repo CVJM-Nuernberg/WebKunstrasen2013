@@ -146,7 +146,7 @@
                     <h2>Medienpartner</h2>
                     <p>Unsere Medienpartner:<br />
 					<a href="http://www.camillo929.de/" target="_new"><img src="img/camillo929.png"/></a> <br />
-					<a href="http://www.curt.de/" target="_new"><img src="img/curt.png"/></a>
+					<a href="http://www.curt.de/nbg/" target="_new"><img src="img/curt.png"/></a>
 					</p>
                 </div>
                 <div class="span4">
