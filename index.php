@@ -143,10 +143,11 @@
 
             <div class="row">
                 <div class="span4">
-                    <h2>Bandausschreibung</h2>
-                    <p><strong>Bands gesucht!</strong><br />
-                    Für Freitag- und Samstagabend suchen wir nun Bands, dieses Jahr sind wir vor allem an Singer-Songwriter-, Folk-, Pop- oder Akustikkünstlern interessiert.</p>
-                    <p><a class="btn" href="dateien/Kunstrasenfestival2013_Bandausschreibung.pdf">Bandausschreibung (PDF) &raquo;</a></p>
+                    <h2>Medienpartner</h2>
+                    <p>Unsere Medienpartner:<br />
+					<a href="http://www.camillo929.de/" target="_new"><img src="img/camillo929.png"/></a> <br />
+					<a href="http://www.curt.de/" target="_new"><img src="img/curt.png"/></a>
+					</p>
                 </div>
                 <div class="span4">
                     <h2>Doku zum 5. Kunstrasenfestival 2009</h2>
