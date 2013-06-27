@@ -71,3 +71,33 @@ footer a:visited {
     font-size: 14px;
     line-height: 20px;
 }
+
+.news-content h1 {
+	color: #333333;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    line-height: 20px;
+	font-weight: bold;
+}
+.news-content h2 {
+	color: #333333;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    line-height: 20px;
+	font-weight: bold;
+}
+.news-content h3 {
+	color: #333333;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    line-height: 20px;
+	font-weight: bold;
+}
+.news-content h4 {
+	color: #333333;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    line-height: 20px;
+	font-weight: bold;
+}
+

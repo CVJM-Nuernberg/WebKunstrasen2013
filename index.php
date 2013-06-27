@@ -167,7 +167,7 @@
 
 						<?php include '_news.inc'; ?> 
 						
-						<!--<ul class="media-list">
+						<ul class="media-list">
 							<li class="media">
 								<a class="pull-left" href="">
 									<img class="media-object size-64x64" width="64" height="64" src="http://kunstrasenfestival.de/2013/himg/blume.jpg">
@@ -178,6 +178,18 @@
 									<p></p>
 									<p class="lead">Ab dem 9.7. werden wir ein Kunstcamp einrichten. KünsterInnen haben die Möglichkeit mit uns ein paar Tage zu verbringen und auf eine zur Verfügung gestellten Rasenflächen Kunst zu produzieren. </p>
 									<p>Highlight wird in diesen Tagen die Begegnung mit eigens eigeflogenen Chinesen sein, die uns in Gostenhof besuchen wollen. Sie werden auch das Festival mit uns aufbauen.</p>
+									<h2>Dienstag bis Sonntag: KunstrasenKamp</h2>
+									<p>Dein persönlicher (Kunst)rasen kann von Dir vier Tage lang gestaltet werden. Du kannst auf dem Rasen entweder im großen Tageszelt oder in einem kleinen Zelt wohnen. Dabei entstehen Kunstwerke, Performance und neue Kreationen, die dann am Wochenende präsentiert werden können. Ansprechpartner fürs KunstrasenKamp ist Jean-Fracois Drozak (drozak@kunstduenger-nuernberg.de)</p>
+									<h2>Freitag ab 18 Uhr</h2>
+									<p>Festivalstimmung auf der Bühne und Kleinkunstzelt</p>
+									<h2>Samstag</h2>
+									<h3>Sportfestival ab 14 Uhr</h3>
+									<p>Waveboarding, Basketballturnier, Ultimate Frisbee, BMX, Parcours und Skaten. Vorbeikommen und mitmachen!</p>
+									<h3>ab 18 Uhr</h3>
+									<p>Festivalstimmung auf der Bühne und Kleinkunstzelt</p>
+									<h2>Sonntag, 11 Uhr</h2>
+									<p>„Love and Peace or Else“ &#8211; Gutes für Seele und Sinne beim Gottesdienst.<br />
+									Ab 10 Uhr kann man ankommen und Kaffee trinken.</p>
 									<p>
 									<div class="wb_fb_comment">
 									<br>
@@ -186,7 +198,7 @@
 										href="" 
 										title="Der Titel">Alles lesen &raquo;</a><br /></p>
 							</li>
-						</ul>/-->
+						</ul>
                         
                         <p><a class="btn" href="http://kunstrasenfestival.de/blog/">Alle News &raquo;</a></p>
                     </div>
