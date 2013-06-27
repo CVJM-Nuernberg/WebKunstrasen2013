@@ -58,3 +58,16 @@ footer a:visited {
 	color: #333333;
 }
 
+.news-content div{
+	color: #333333;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    line-height: 20px;
+}
+
+.news-content .lead {
+	color: #333333;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    line-height: 20px;
+}

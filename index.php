@@ -114,7 +114,8 @@
             <div class="row">
                 <div class="span4">
                     <h2>Classic meets junge Szene</h2>
-                    <p>Unser Schirmherr Marcus Bosch, Generalmusikdirektor des Staatstheater und der Staatsphilharmonie Nürnberg sorgt für eine ganz neue Richtung beim Festival. Regionale Bands treffen auf Profimusiker und jammen, frei nach dem Motto „Classic meets junge Szene“.  </p>
+                    <p>Unser Schirmherr Marcus Bosch, Generalmusikdirektor des Staatstheater und der Staatsphilharmonie Nürnberg sorgt für eine ganz neue Richtung beim Festival. Regionale Bands treffen auf Profimusiker und jammen, frei nach dem Motto „Classic meets junge Szene“.</p>
+					<p>Marcus Bosch wird zum Gottesdienst am Sonntag, 11 Uhr, auf den Rasen kommen.</p>
                     <p><a class="btn disabled " href="#">Mehr in Kürze &raquo;</a></p>
                 </div>
                 <div class="span4">
@@ -165,6 +166,27 @@
                         <h2>News</h2>
 
 						<?php include '_news.inc'; ?> 
+						
+						<!--<ul class="media-list">
+							<li class="media">
+								<a class="pull-left" href="">
+									<img class="media-object size-64x64" width="64" height="64" src="http://kunstrasenfestival.de/2013/himg/blume.jpg">
+								</a>
+								<div class="media-body">
+									<h4 class="media-heading"><a href="" title="Der Titel">Der Titel</a> <small>vom 1. Januar 1900</small></h4>
+									<div class="news-content">
+									<p></p>
+									<p class="lead">Ab dem 9.7. werden wir ein Kunstcamp einrichten. KünsterInnen haben die Möglichkeit mit uns ein paar Tage zu verbringen und auf eine zur Verfügung gestellten Rasenflächen Kunst zu produzieren. </p>
+									<p>Highlight wird in diesen Tagen die Begegnung mit eigens eigeflogenen Chinesen sein, die uns in Gostenhof besuchen wollen. Sie werden auch das Festival mit uns aufbauen.</p>
+									<p>
+									<div class="wb_fb_comment">
+									<br>
+									<p></p>
+									<a class="btn btn-small" 
+										href="" 
+										title="Der Titel">Alles lesen &raquo;</a><br /></p>
+							</li>
+						</ul>/-->
                         
                         <p><a class="btn" href="http://kunstrasenfestival.de/blog/">Alle News &raquo;</a></p>
                     </div>

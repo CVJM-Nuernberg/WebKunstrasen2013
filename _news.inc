@@ -37,10 +37,12 @@
             <div class="media-body">
 				<h4 class="media-heading"><a href="<?php the_permalink(); ?>" title="<?php the_title(); ?>"><?php the_title(); ?></a> <small>vom <?php the_date(); ?></small></h4>
                 
-                <p><?php the_content(); ?> 
-                <!--<a class="btn btn-small" 
-						href="<?php the_permalink(); ?>" 
-						title="<?php the_title(); ?>">Alles lesen &raquo;</a>/--><br /></p>
+				<div class="news-content">
+					<p><?php the_content(); ?> 
+					<!--<a class="btn btn-small" 
+							href="<?php the_permalink(); ?>" 
+							title="<?php the_title(); ?>">Alles lesen &raquo;</a>/--><br /></p>
+				<div>
             </div>
         </li>
 <?php endforeach; ?> 
