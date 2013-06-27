@@ -42,7 +42,7 @@
 					<!--<a class="btn btn-small" 
 							href="<?php the_permalink(); ?>" 
 							title="<?php the_title(); ?>">Alles lesen &raquo;</a>/--><br /></p>
-				<div>
+				</div>
             </div>
         </li>
 <?php endforeach; ?> 
