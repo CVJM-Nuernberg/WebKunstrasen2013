@@ -168,7 +168,7 @@
 
 						<?php include '_news.inc'; ?> 
 						
-						<ul class="media-list">
+						<!--<ul class="media-list">
 							<li class="media">
 								<a class="pull-left" href="">
 									<img class="media-object size-64x64" width="64" height="64" src="http://kunstrasenfestival.de/2013/himg/blume.jpg">
@@ -198,7 +198,7 @@
 									<a class="btn btn-small" 
 										href="" 
 										title="Der Titel">Alles lesen &raquo;</a><br /></p>
-							</li>
+							</li>/-->
 						</ul>
                         
                         <p><a class="btn" href="http://kunstrasenfestival.de/blog/">Alle News &raquo;</a></p>
