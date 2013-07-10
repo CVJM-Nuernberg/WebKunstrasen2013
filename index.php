@@ -54,6 +54,7 @@
                     <div class="nav-collapse collapse">
                         <ul class="nav">
                             <li class="active"><a href="#">Home</a></li>
+							<li class="active"><a href="/blog/">News</a></li>
 							<li class="dropdown">
                                 <a href="#" class="dropdown-toggle" data-toggle="dropdown">Mehr <b class="caret"></b></a>
                                 <ul class="dropdown-menu">
@@ -108,7 +109,7 @@
                 <h1 class="visible-phone"><span class="summary">Kunst&shy;rasen&shy;festival</span></h1>
                    <p>Das Festival für ansprechende und vielseitige Kunst, das Kunstrasenfestival, findet 2013 zum siebten Mal in Nürnberg unter der Theodor-Heuss-Brücke statt. Am Wochenende vom <abbr class="dtstart" title="2013-07-12">12. bis</abbr> <abbr class="dtend" title="2013-07-14">14. Juli</abbr> wird es verschiedene Kunstformen, von kreative Genüssen bis zu verschiedensten musikalischen Ergüssen geben. Das ganze Festival findet Open-Air statt und ist kostenlos. Bereits ab Dienstag, 9. Juli, kann im Kunstcamp vor Ort gezeltet und gekünstlert werden.</p>
                 </span>
-                <!--<p><a class="btn btn-primary btn-large">Zum Programm &raquo;</a></p>/-->
+                <p><a class="btn btn-primary btn-large" href="/blog/2013/05/das-lineup-steht/">Zum Programm &raquo;</a></p>
             </div>
 
             <div class="row">
@@ -116,12 +117,12 @@
                     <h2>Classic meets junge Szene</h2>
                     <p>Unser Schirmherr Marcus Bosch, Generalmusikdirektor des Staatstheater und der Staatsphilharmonie Nürnberg sorgt für eine ganz neue Richtung beim Festival. Regionale Bands treffen auf Profimusiker und jammen, frei nach dem Motto „Classic meets junge Szene“.</p>
 					<p>Marcus Bosch wird zum Gottesdienst am Sonntag, 11 Uhr, auf den Rasen kommen.</p>
-                    <p><a class="btn disabled " href="#">Mehr in Kürze &raquo;</a></p>
+                    <!--<p><a class="btn disabled " href="#">Mehr in Kürze &raquo;</a></p>/-->
                 </div>
                 <div class="span4">
                     <h2>Kunstcamp</h2>
                     <p>Ab Dienstag,  kann auf dem Kunstcamp gezeltet werden. Künstlerinnen und Künstler haben so die Möglichkeit, direkt vor Ort Ideen für Musik, Skulptur, Performance usw. zu entwickeln. So entstehen nach und nach kreative Programmteile für das Festival.</p>
-                    <p><a class="btn disabled " href="#">Mehr in Kürze &raquo;</a></p>
+                    <p><a class="btn" href="/blog/2013/06/kunstcamp-und-rollende-blechbuden/">Kunstcamp &raquo;</a></p>
                </div>
                 <div class="span4">
                     <h2>Newsletter</h2>
